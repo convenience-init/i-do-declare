@@ -1,3 +1,3 @@
 # iDoDeclare
 
-A description of this package.
+A Declarative toolkit experiment for UIKit, written in vanilla Swift, using zero 3rd party dependencies.
